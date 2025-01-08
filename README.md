@@ -1,11 +1,11 @@
 # Weather Forecast Report in Power BI
+
 This project involved creating an interactive Power BI dashboard to visualize key weather metrics, 
 including temperature, precipitation, and wind speed.
 
-Data :
- Weather Data Query Page. 
- Retrieved live data from https://www.visualcrossing.com/weather/weather-data-services.
- We can construct the Weather API query or download weather data using this page. To import live weather data into Power BI we will need to copy the Weather API query.
+DATA:
+1. Retrieved live data from Weather Data Query Page :: https://www.visualcrossing.com/weather/weather-data-services.
+2. Construct the Weather API query or download weather data using this page. To import live weather data into Power BI we need to copy the Weather API query.
 
 Steps to make the data ready for the Weather API:
 1. Create a free account on the Weather Data Query Page like other platforms.
@@ -23,14 +23,17 @@ After the weather data is retrieved, Follow the steps below for getting started 
 Tools and Technologies:
 
 • Power BI for building interactive dashboards and visualizing data
+
 • DAX for performing advanced data analysis and calculations
 
 Key Features:
 
 • Visualizations of weather data such as temperature, precipitation, and wind speed.
+
 • Interactive functionality, allowing users to filter and explore specific data points.
 
 Outcome:
 
 The dashboard provided valuable insights into weather trends, facilitating improved decision-making and 
+
 enhancing user engagement through interactive data exploration.
