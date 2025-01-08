@@ -30,8 +30,6 @@ Key Features:
 
 • Visualizations of weather data such as temperature, precipitation, and wind speed.
 
-• Interactive functionality, allowing users to filter and explore specific data points.
-
 Outcome:
 
 The dashboard provided valuable insights into weather trends, facilitating improved decision-making and 
