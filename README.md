@@ -4,7 +4,7 @@ This project involved creating an interactive Power BI dashboard to visualize ke
 including temperature, precipitation, and wind speed.
 
 DATA:
-1. Retrieved live data from Weather Data Query Page :: https://www.visualcrossing.com/weather/weather-data-services.
+1. Retrieved live data from Weather Data Query Page :: https://www.visualcrossing.com/weather/weather-data-services
 2. Construct the Weather API query or download weather data using this page. To import live weather data into Power BI we need to copy the Weather API query.
 
 Steps to make the data ready for the Weather API:
