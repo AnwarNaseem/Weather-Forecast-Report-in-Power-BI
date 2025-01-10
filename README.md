@@ -19,7 +19,9 @@ Source: Live weather data was retrieved using the Weather Data Query Page from V
 4. Power BI will import data from the API for analysis.
    
 **Tools and Technologies:**
+
 Power BI: For building interactive dashboards and data visualization.
+
 DAX: For advanced data analysis and calculations.
 
 Key Features:
