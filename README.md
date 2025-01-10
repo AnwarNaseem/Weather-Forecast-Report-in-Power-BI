@@ -4,7 +4,8 @@ This project involved creating an interactive Power BI dashboard to visualize ke
 
 **Data Retrieval Process:**
 Source: Live weather data was retrieved using the Weather Data Query Page from Visual Crossing Website.
-https://www.visualcrossing.com/weather-data
+
+Link: https://www.visualcrossing.com/weather-data
 
 **Weather API Query:**
 1. Create a free account on the platform.
