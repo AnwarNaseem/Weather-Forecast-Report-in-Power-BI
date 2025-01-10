@@ -1,37 +1,29 @@
 # Weather Forecast Report in Power BI
 
-This project involved creating an interactive Power BI dashboard to visualize key weather metrics, 
-including temperature, precipitation, and wind speed.
+This project involved creating an interactive Power BI dashboard to visualize key weather metrics such as temperature, precipitation, and wind speed.
 
-DATA:
-1. Retrieved live data from Weather Data Query Page :: https://www.visualcrossing.com/weather/weather-data-services
-2. Construct the Weather API query or download weather data using this page. To import live weather data into Power BI we need to copy the Weather API query.
+**Data Retrieval Process:**
+Source: Live weather data was retrieved using the Weather Data Query Page from Visual Crossing.
 
-Steps to make the data ready for the Weather API:
-1. Create a free account on the Weather Data Query Page like other platforms.
-2. Switch to the API view to generate the query URL. Using a query URL will allow us to directly import our live weather forecast data into Power BI.
-3. Choose the weather forecast data for July 2024 to Jan 2025 for India.
-4. This query will allow Power BI to fetch live data and refresh the data so that our forecast data is always current. Make sure you are logged into your account at this point so that ‘YOUR_API_KEY’ is replaced with your API key.
-5. To switch to CSV format, change the format drop-down box. Finally, copy this URL into your clipboard.
+**Weather API Query:**
+1. Create a free account on the platform.
+2. Switch to the API view to generate a query URL for live weather data.
+3. Select weather forecast data for July 2024 to January 2025 for India.
+4. Ensure the query URL includes your API key by logging in. Adjust the format to CSV in the drop-down menu and copy the URL.
+5. This URL enables Power BI to fetch and refresh live weather forecast data automatically.
 
-After the weather data is retrieved, Follow the steps below for getting started with Microsoft Power BI :
-1. Open Power BI and click on the "Get Data" button in the ribbon at the top of the screen. This will open the "Get Data" dialog box.
-2. In the "Get Data" dialog box, we need to use a web data source to use weather data. Select "Web" from the list of data sources and click "Connect".
-3. In the "Web" dialog box, enter the URL of the weather data API from above. Once you have entered the URL for the weather API.
-4. Click "OK" to connect to the data. Power BI will import the data from the API.
-
-Tools and Technologies:
-
-• Power BI for building interactive dashboards and visualizing data
-
-• DAX for performing advanced data analysis and calculations
+**Steps to Load Data in Power BI:**
+1. Open Power BI and click "Get Data" in the ribbon.
+2. Select "Web" as the data source and click "Connect".
+3. Paste the Weather API URL into the dialog box and click "OK".
+4. Power BI will import data from the API for analysis.
+   
+**Tools and Technologies:**
+Power BI: For building interactive dashboards and data visualization.
+DAX: For advanced data analysis and calculations.
 
 Key Features:
-
-• Visualizations of weather data such as temperature, precipitation, and wind speed.
+Interactive visualizations of weather data, including temperature, precipitation, and wind speed.
 
 Outcome:
-
-The dashboard provided valuable insights into weather trends, facilitating improved decision-making and 
-
-enhancing user engagement through interactive data exploration.
+The dashboard provided actionable insights into weather trends, enhancing decision-making and improving user engagement through interactive exploration of weather data.
