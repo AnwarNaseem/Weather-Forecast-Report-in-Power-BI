@@ -31,3 +31,14 @@ Interactive visualizations of weather data, including temperature, precipitation
 
 Outcome:
 The dashboard provided actionable insights into weather trends, enhancing decision-making and improving user engagement through interactive exploration of weather data.
+
+![Weather Dashboard](https://github.com/user-attachments/assets/def59fc9-4721-4ea7-b349-d7451c0da46b)
+
+![Weather Dashboard1](https://github.com/user-attachments/assets/60e4ad67-9046-4379-9bae-5b19664d7b17)
+
+![Weather Dashboard2](https://github.com/user-attachments/assets/b61cde2a-a2fa-463d-aaf7-5fd3964ace1f)
+
+
+
+
+
